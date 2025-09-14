@@ -1,4 +1,4 @@
-node_modules
+git remote add origin https://github.com/atulkrs/RealTime_Messaging_App.gitnode_modules
 # Keep environment variables out of version control
 .env
 
